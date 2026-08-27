@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project Specific - Data & Cache
+cache/
+api_cache/
+output_encoding/
+predict_encoding/
+*.pickle
+memory_data.json
+best_encoding.txt
+best_encoding_result.txt
+doc_content.txt
+mutations.txt
+your_data.csv
+result.csv
+top_10_sequences.csv
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
